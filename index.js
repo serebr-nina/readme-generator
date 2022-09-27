@@ -13,7 +13,6 @@ const promptReadme = () => {
                 if (githubName) {
                     return true;
                 } else {
-                    //console.log('Please enter your GitHub Username!');
                     return false;
                 }
             }
@@ -26,7 +25,6 @@ const promptReadme = () => {
                 if (email) {
                     return true;
                 } else {
-                    //console.log('Please enter your GitHub Username!');
                     return false;
                 }
             }
@@ -39,7 +37,6 @@ const promptReadme = () => {
                 if (projectName) {
                     return true;
                 } else {
-                    //console.log('Please enter your project name!');
                     return false;
                 }
             }
@@ -52,7 +49,6 @@ const promptReadme = () => {
                 if (projectDescription) {
                     return true;
                 } else {
-                    //console.log('Please enter your project name!');
                     return false;
                 }
             }
@@ -65,7 +61,6 @@ const promptReadme = () => {
                 if (installation) {
                     return true;
                 } else {
-                    //console.log('Please enter your project name!');
                     return false;
                 }
             }
@@ -78,7 +73,6 @@ const promptReadme = () => {
                 if (usage) {
                     return true;
                 } else {
-                    //console.log('Please enter your project name!');
                     return false;
                 }
             }
@@ -97,7 +91,6 @@ const promptReadme = () => {
                 if (usage) {
                     return true;
                 } else {
-                    //console.log('Please enter your project name!');
                     return false;
                 }
             }
@@ -110,7 +103,6 @@ const promptReadme = () => {
                 if (usage) {
                     return true;
                 } else {
-                    //console.log('Please enter your project name!');
                     return false;
                 }
             }

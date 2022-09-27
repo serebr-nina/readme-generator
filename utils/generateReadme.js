@@ -6,7 +6,7 @@ const licenseBadge = {'MIT' : 'https://img.shields.io/badge/license-MIT-blue',
                       'Apache-2.0' : 'https://img.shields.io/badge/license-Apache--2.0-blue',
                       'GPL' : 'https://img.shields.io/badge/license-GPL-blue'};
 
-// TODO: Create a function to generate markdown for README
+// Create a function to generate markdown for README
 generateReadme = (data) => {
   return `# ${data.title} <img src="${licenseBadge[data.license]}">
 
