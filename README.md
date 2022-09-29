@@ -10,8 +10,9 @@ To begin using the app, clone this repo. Next, run an "npm install" command in y
 Run a "node index" command to start the app's questions prompts that relate to various sections of the README. The file gets generated using provided answers. 
 
 ## App Demonstration
-[App Demo](./utils/app-demo.webm)
-[App Demo2](./utils/app-demo2.webm)
+[App Demo](https://drive.google.com/file/d/1U4xgFhq_X03Vh6sRe4vDWHUkIIOvI2sA/view)
+[App Demo2](https://drive.google.com/file/d/1obx5aTMFdOLlmQ6IT1aYTqbGXI251oNt/view)
+
 
 
 
